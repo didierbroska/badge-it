@@ -20,14 +20,13 @@
 		"JavaScript"
 	],
 	"author": {
-		"name": "RocktimSaikia",
-		"email": "srocktim61@gmail.com",
-		"website": "https://rocktim.xyz"
+		"name": "Didier Bröska",
+		"email": "didier.broska@gmail.com"
 	},
 	"bugs": {
-		"url": "https://github.com/RocktimSaikia/awesome-project/issues"
+		"url": "https://github.com/didierbroska/badge-it/issues"
 	},
-	"homepage": "https://github.com/RocktimSaikia/awesome-project#readme",
+	"homepage": "https://github.com/didierbroska/badge-it#readme",
 	"dependencies": {
 		"@actions/core": "^1.2.5",
 		"@actions/github": "^4.0.0",
